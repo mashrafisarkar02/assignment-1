@@ -1,0 +1,51 @@
+/* navbar design section */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+nav h3{
+    font-size: 34px;
+    font-weight: bolder;
+    font-family: Inter;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 16px;
+}
+.header{
+    background-image: url(image/Hero-bg.png);
+    width: 100%;
+    height: 650px;
+}
+/* header text area design */
+.header-text-area{
+    text-align: center;
+}
+.header-text-area h2{
+    font-family: Raleway;
+    font-size: 65px;
+    font-weight: bold;
+    margin-top:158px;
+    left: 267.5px;
+}
+.primary-btn{
+    padding: 12px 36px;
+    background-color: #4E47FF;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Inter;
+    border: none;
+    font-size: 16px;
+}
+.nav-section h3{
+    font-size: 34px;
+    font-family: Inter;
+    color: #4E47FF;
+}
