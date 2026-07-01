@@ -1,9 +1,4 @@
-/* body {
-    max-width: 1140px;
-    margin: auto;
-} */
 
-/* navbar design section */
 nav{
     display: flex;
     align-items: center;
@@ -69,8 +64,6 @@ nav li a{
     justify-content: center;
     gap: 360px;
     margin-bottom: 116px;
-    
-    
 }
 .action-text-area h2{
     font-size: 42px;
@@ -151,7 +144,6 @@ nav li a{
     font-family: "Raleway", sans-serif;
 }
 .feedback{
-    /* width: 364px; */
     padding: 24px;
     background: #ffffff;
     border: 1px solid #E5E7EB;
@@ -161,7 +153,6 @@ nav li a{
 .star-img-icon{
     margin-bottom: 24px; 
 }
-
 .feedback-title{
     font-family: "Raleway", sans-serif;
     font-size: 26px;
@@ -181,8 +172,6 @@ nav li a{
     justify-content: flex-start;
     width: 180px;
     margin: 0;
-    /* margin-top:20px; */
-    /* gap: 12px; */
 }
 .user-img{
     width: 45px;
@@ -323,8 +312,6 @@ footer h1{
     font-family: "Inter", sans-serif;
     line-height: 35px;
     color: #4E47FF;
-
-
 }
 footer p{
     font-size: 22px;
@@ -333,7 +320,6 @@ footer p{
     text-align: center;
     margin-top: 8px;
     line-height: 15px;
-
 }
 footer ul li{
     list-style: none;
