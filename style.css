@@ -178,6 +178,7 @@ nav li a{
     height: 45px;
     border-radius: 50%;
     object-fit: cover;
+    margin-right: 12px;
 }
 .reviewr-info{
     display: flex;
